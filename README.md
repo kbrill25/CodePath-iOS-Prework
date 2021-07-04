@@ -4,7 +4,7 @@ Prework is a tip calculator application for iOS.
 
 Submitted by: Grace Brill
 
-Time spent: 2.5 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Te5fD4q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/S3OaSb5su19VVk8BMp/giphy.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2021] 
+    Copyright [2021] [Brill]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
